@@ -1,0 +1,16 @@
+body {
+    background-color:#2f4f4f;
+    color: white;
+    font-family: "Gowun Batang", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: #f0f8ff;
+    color: white;
+    font-family: "Gowun Batang", serif;
+
+}
